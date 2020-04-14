@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cesar.utils", "cesar.utils\cesar.utils.csproj", "{5D5D721C-6675-43AE-9EC4-0B882CE75D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cesar.utils.test", "cesar.utils.test\cesar.utils.test.csproj", "{2F2010A5-C2C7-4088-AA63-C0DBA001C145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cesar.android.typo.Android", "cesar.android.typo\cesar.android.typo.Android\cesar.android.typo.Android.csproj", "{5C5A887D-0D84-41FA-BD38-446EF17198F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cesar.android.typo", "cesar.android.typo\cesar.android.typo\cesar.android.typo.csproj", "{88BDA75C-74E8-4D80-9608-BCEDE5527FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cesar.android.service", "cesar.android.service\cesar.android.service.csproj", "{CA48F3B5-3BE1-420C-AFF9-BFB014A8B3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5D721C-6675-43AE-9EC4-0B882CE75D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5D721C-6675-43AE-9EC4-0B882CE75D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5D721C-6675-43AE-9EC4-0B882CE75D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5D721C-6675-43AE-9EC4-0B882CE75D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2010A5-C2C7-4088-AA63-C0DBA001C145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2010A5-C2C7-4088-AA63-C0DBA001C145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2010A5-C2C7-4088-AA63-C0DBA001C145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2010A5-C2C7-4088-AA63-C0DBA001C145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5A887D-0D84-41FA-BD38-446EF17198F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5A887D-0D84-41FA-BD38-446EF17198F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5A887D-0D84-41FA-BD38-446EF17198F7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5C5A887D-0D84-41FA-BD38-446EF17198F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5A887D-0D84-41FA-BD38-446EF17198F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C5A887D-0D84-41FA-BD38-446EF17198F7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{88BDA75C-74E8-4D80-9608-BCEDE5527FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88BDA75C-74E8-4D80-9608-BCEDE5527FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88BDA75C-74E8-4D80-9608-BCEDE5527FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88BDA75C-74E8-4D80-9608-BCEDE5527FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA48F3B5-3BE1-420C-AFF9-BFB014A8B3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA48F3B5-3BE1-420C-AFF9-BFB014A8B3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA48F3B5-3BE1-420C-AFF9-BFB014A8B3EF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA48F3B5-3BE1-420C-AFF9-BFB014A8B3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA48F3B5-3BE1-420C-AFF9-BFB014A8B3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA48F3B5-3BE1-420C-AFF9-BFB014A8B3EF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B457DD89-F7F4-4836-B985-6D1BF170F7DA}
+	EndGlobalSection
+EndGlobal
